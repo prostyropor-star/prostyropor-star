@@ -15,6 +15,11 @@ Free, monthly lists of **which companies are hiring right now**, read directly f
 | Recruiting | [recruiting-companies-hiring-now](https://github.com/prostyropor-star/recruiting-companies-hiring-now) |
 | US remote | [remote-companies-hiring-now](https://github.com/prostyropor-star/remote-companies-hiring-now) |
 
+## By country (free)
+
+- [Companies hiring in Europe](https://github.com/prostyropor-star/companies-hiring-in-europe) – France, Netherlands, Ireland, Spain, Poland, Sweden, Italy, Belgium, Denmark
+- [Companies hiring in Canada, Australia and India](https://github.com/prostyropor-star/companies-hiring-canada-australia-india)
+
 ## Hiring software (ATS) data
 
 - [Which ATS do companies use?](https://github.com/prostyropor-star/which-ats-do-companies-use) – market share across 34,235 career sites
